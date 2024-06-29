@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185696290944",
+    "project_id": "fir-login-6c8cf",
+    "storage_bucket": "fir-login-6c8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185696290944:android:f14825549c479ef8713e65",
+        "android_client_info": {
+          "package_name": "zazueta.marcos.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185696290944-5l1bo125luai0j2mn2rc5l5r5lem4ur5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zazueta.marcos.firebaselogin",
+            "certificate_hash": "3bb4cd2a4c8bab85d4e4abfb5255d63ffdcde409"
+          }
+        },
+        {
+          "client_id": "185696290944-rtgbu6lcumjkequ1kh9hgl7m3l5d430r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQFXQq6iR3v_WCOBDgUhaHVfjWYvVRos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185696290944-rtgbu6lcumjkequ1kh9hgl7m3l5d430r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
